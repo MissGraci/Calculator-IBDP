@@ -4,7 +4,7 @@ st.set_page_config(page_title="IBDP CS Grade Calculator – Mrs Graci", layout="
 
 # Título
 st.markdown(
-    "<h1 style='text-align: center; color: #1d427c;' IBDP Computer Science Calculator</h1>",
+    "<h1 style='text-align: center; color: #1d427c;'> IBDP Computer Science Calculator</h1>",
     unsafe_allow_html=True
 )
 
